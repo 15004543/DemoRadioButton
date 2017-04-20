@@ -28,6 +28,5 @@ public class MainActivity extends AppCompatActivity {
                 Toast.makeText(getBaseContext(), rb.getText(),
                         Toast.LENGTH_LONG).show();
             }});
-
     }
 }
